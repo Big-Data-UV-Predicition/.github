@@ -48,7 +48,7 @@ Proyek ini merupakan implementasi dari tugas akhir mata kuliah Big Data di Unive
 * **Fakultas**: FMIPA
 * **Universitas**: Universitas Pakuan
 * **Semester**: Ganjil 2024/2025
-* **Dosen Pengampu**: [Nama Dosen]
+* **Dosen Pengampu**: Dr. Fajar Delli Wihartiko, MM. M. Kom.
 
 ## 📝 Lisensi
 MIT License © 2025 Cangcimen Team
